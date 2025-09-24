@@ -2,3 +2,4 @@ project: git_lab
 threads: 4
 genome_id: ST398
 memory_gb: 8
+notes: update genome soon
